@@ -1,0 +1,101 @@
+ProductID,ProductName,CategoryID,unitPrice
+78,Ipoh Coffee,1,90.14
+79,Rhönbräu Klosterbier,1,28.36
+80,Chai,1,87.16
+81,Rhönbräu Klosterbier,1,89.2
+82,Chai,1,54.29
+83,Chang,1,52.17
+84,Rhönbräu Klosterbier,1,53.58
+85,Chai,1,82.17
+86,Rhönbräu Klosterbier,1,92.29
+87,Chai,1,10.38
+88,Chai,1,97.03
+89,Chai,1,79.06
+90,Chang,1,33.72
+91,Chang,1,12.05
+92,Rhönbräu Klosterbier,1,16.59
+93,Chai,1,61.61
+94,Ipoh Coffee,1,83.84
+95,Chai,1,100.24
+96,Rhönbräu Klosterbier,1,17.08
+97,Chang,1,95.77
+98,Chai,1,66.79
+99,Ipoh Coffee,1,29.97
+100,Chai,1,42.81
+101,Rhönbräu Klosterbier,1,13.14
+102,Chai,1,61.55
+103,Rhönbräu Klosterbier,1,78.33
+104,Chang,1,73.52
+105,Rhönbräu Klosterbier,1,27.49
+106,Rhönbräu Klosterbier,1,76.96
+107,Chang,1,81.89
+108,Chai,1,100.27
+109,Chai,1,33.4
+110,Ipoh Coffee,1,17.46
+111,Ipoh Coffee,1,27.49
+112,Chang,1,22.69
+113,Ipoh Coffee,1,13.81
+114,Chai,1,53.19
+115,Chang,1,44.64
+116,Rhönbräu Klosterbier,1,49.64
+117,Ipoh Coffee,1,57.44
+118,Chai,1,98.83
+119,Chang,1,18.99
+120,Chang,1,65.13
+121,Rhönbräu Klosterbier,1,29.98
+122,Chang,1,57.34
+123,Ipoh Coffee,1,70.26
+124,Rhönbräu Klosterbier,1,23.54
+125,Rhönbräu Klosterbier,1,18.12
+126,Chai,1,93.6
+127,Chang,1,37.15
+128,Chang,1,13.27
+129,Ipoh Coffee,1,66.99
+130,Ipoh Coffee,1,97.71
+131,Ipoh Coffee,1,36
+132,Rhönbräu Klosterbier,1,24.87
+133,Chai,1,50.83
+134,Chai,1,55.1
+135,Chai,1,58
+136,Rhönbräu Klosterbier,1,34.25
+137,Chang,1,38.59
+138,Chai,1,81.34
+139,Chai,1,82.59
+140,Chang,1,62.54
+141,Ipoh Coffee,1,41.17
+142,Chang,1,28.84
+143,Ipoh Coffee,1,69.52
+144,Chai,1,19.09
+145,Rhönbräu Klosterbier,1,43.99
+146,Rhönbräu Klosterbier,1,63.95
+147,Rhönbräu Klosterbier,1,10.13
+148,Chai,1,16.24
+149,Rhönbräu Klosterbier,1,80.02
+150,Chai,1,20.4
+151,Rhönbräu Klosterbier,1,83.59
+152,Rhönbräu Klosterbier,1,89.23
+153,Rhönbräu Klosterbier,1,18.34
+154,Chang,1,71.19
+155,Chai,1,88.31
+156,Rhönbräu Klosterbier,1,52.85
+157,Chang,1,55.71
+158,Rhönbräu Klosterbier,1,53.32
+159,Chai,1,48.68
+160,Rhönbräu Klosterbier,1,25.32
+161,Rhönbräu Klosterbier,1,52.26
+162,Chai,1,11.21
+163,Ipoh Coffee,1,84.25
+164,Chang,1,66.09
+165,Chang,1,31.67
+166,Ipoh Coffee,1,85.43
+167,Rhönbräu Klosterbier,1,33.83
+168,Chang,1,73.4
+169,Chai,1,55.32
+170,Rhönbräu Klosterbier,1,83.73
+171,Rhönbräu Klosterbier,1,68.47
+172,Chai,1,17.53
+173,Rhönbräu Klosterbier,1,62.19
+174,Rhönbräu Klosterbier,1,73.71
+175,Chang,1,60.42
+176,Chang,1,22.7
+177,Ipoh Coffee,1,38.8
